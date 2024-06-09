@@ -3,14 +3,12 @@
 This is a simple command-line game written in Rust where the player needs to guess a randomly selected fruit from a predefined list.
 
 ## How to Play
-<code>
 1. Clone the repository or download the `main.rs` file. <br>
 2. Ensure you have Rust installed on your system. If not, you can download it from [Rust's official website](https://www.rust-lang.org/tools/install). <br>
 3. Compile and run the program using the following command: <br>
 
    ```bash <br>
    cargo run  <br>
-</code>
 => Follow the instructions to guess the fruit. <br>
 => If your guess matches the randomly selected fruit, you win! <br>
 <h2>How it Works</h2> <br>
