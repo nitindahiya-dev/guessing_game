@@ -8,7 +8,7 @@ This is a simple command-line game written in Rust where the player needs to gue
 3. Compile and run the program using the following command: <br>
 
    ```bash <br>
-   cargo run  <br>
+   cargo run
 => Follow the instructions to guess the fruit. <br>
 => If your guess matches the randomly selected fruit, you win! <br>
 <h2>How it Works</h2> <br>
